@@ -48,7 +48,8 @@ const LandingPage = () => {
               textAlign: 'center'
             }}
           >
-            Discover the finest selection of artisanal chocolates from around the world
+            Welcome to Jash Mehta's Magical Chocolate world.
+            Experience the wonderful chocolates handcrafted by our MasterChef Jash
           </Typography>
 
           <Box sx={{ display: 'flex', justifyContent: 'center', gap: 2 }}>
